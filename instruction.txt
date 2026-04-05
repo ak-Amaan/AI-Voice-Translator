@@ -1,6 +1,0 @@
-To start,
-In command prompt:
-1.Source ~/.zshrc
-2.Then make sure the working directory is correct in this case it should be (/Users/mdamaankhan/Documents/ML Projects/real-time-voice-translator)
-3.voice-(app,app1,app2) (in command prompt)
-4. Now the Gui should appear
